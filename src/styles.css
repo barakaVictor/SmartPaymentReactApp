@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  border: solid thin;
+  max-width: 450px;
+  border-radius: 10px;
+}
+ul {
+  list-style-type: none;
+}
+.user-details {
+  margin-top: 2em;
+  max-width: 300px;
+  padding: 10px;
+  border: solid thin;
+  border-radius: 8px;
+}
+.user-details > input {
+  color: white;
+  font-size: 2em;
+  line-height: 2em;
+  border: none;
+  background: none;
+}

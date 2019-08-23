@@ -1,2 +1,0 @@
-# SmartPaymentReactApp
-Created with CodeSandbox
