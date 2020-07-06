@@ -15,7 +15,7 @@ ul {
   border-radius: 8px;
 }
 .user-details > input {
-  color: white;
+  color: #000;
   font-size: 2em;
   line-height: 2em;
   border: none;
